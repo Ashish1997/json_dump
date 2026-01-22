@@ -1,0 +1,64 @@
+{
+  "version": "5.9.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "screw_hole",
+      "points": [
+        [
+          1189.7880301369623,
+          404.26237687185187
+        ],
+        [
+          1320.1813641345675,
+          534.6557108694574
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "screw_hole",
+      "points": [
+        [
+          1224.4047578608634,
+          1299.4588756450748
+        ],
+        [
+          1355.102579577141,
+          1432.6523251144276
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "screw_hole",
+      "points": [
+        [
+          421.72723352857577,
+          884.582699899403
+        ],
+        [
+          558.0252861883479,
+          1018.3851248060994
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "rotated.jpg",
+  "imageData": null,
+  "imageHeight": 1848,
+  "imageWidth": 1930
+}
